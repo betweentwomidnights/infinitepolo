@@ -8,8 +8,8 @@ BPM = 73.96
 SECONDS_PER_BAR = 60 / BPM * 4  # Assuming 4 beats per bar
 TARGET_SAMPLE_RATE = 44100  # Target sample rate
 TOTAL_BARS = {'branch1': 41, 'branch2': 31}  # Total bars in the original songs
-SLICE_REUSE_DELAY_SECONDS = 18 * 60  # 25 minutes before a slice can be reused
-BRANCH_REUSE_DELAY_SECONDS = 5 * 60  # 8 minutes before a non-branch1 branch can be reused
+SLICE_REUSE_DELAY_SECONDS = 18 * 60  # 18 minutes before a slice can be reused
+BRANCH_REUSE_DELAY_SECONDS = 5 * 60  # 5 minutes before a non-branch1 branch can be reused
 MAX_CONSECUTIVE_NON_BRANCH1_LOOPS = 1  # Maximum number of consecutive loops in non-branch1 branches
 
 # Load an audio file with librosa

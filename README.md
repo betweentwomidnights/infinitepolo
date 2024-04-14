@@ -4,6 +4,8 @@ https://thecollabagepatch.com/infinitepolo.mp3
 
 this song has branches, kinda like a react tree.
 
+three.py is the 3rd iteration.
+
 branch1, 'original.wav' is the entrypoint. the script begins there. there are slices that can be extended into whole branches.
 
 branch2 begins and ends at specific bars in the 'original.wav' in branch1.
