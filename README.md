@@ -22,6 +22,14 @@ this Python script was used along with human ears and fingers to get individual 
 
 `branch3` might begin from a slice in `branch2`. don't see why that would be a problem.
 
-most recently, it took kev upon last listen about 45 minutes before he finally heard most or all of `branch2`.
+most recently, it took kev about 45 minutes before he finally heard most or all of `branch2`.
 
 this is kinda like a white paper for a possible cool new way to jam that no one else will rly enjoy but him.
+
+@zeuzmakesmusic made the remix that this song branches out from.
+
+https://www.youtube.com/watch?v=3qsUf3tBb5E
+
+polo g made the original.
+
+https://www.youtube.com/watch?v=OQ6R4TU5Vwo
