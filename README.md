@@ -20,8 +20,8 @@ this Python script was used along with human ears and fingers to get individual 
 
 [https://colab.research.google.com/drive/10CMvuI6DV_VPS0uktbrOB8jBQ7IhgDgL?usp=sharing](https://colab.research.google.com/drive/10CMvuI6DV_VPS0uktbrOB8jBQ7IhgDgL?usp=sharing)
 
-`branch3` might begin from a slice in `branch2`. i dont think that's a problem.
+`branch3` might begin from a slice in `branch2`. don't see why that would be a problem.
 
-currently, it took kev upon last listen about 45 minutes before he finally heard most or all of `branch2`.
+most recently, it took kev upon last listen about 45 minutes before he finally heard most or all of `branch2`.
 
 this is kinda like a white paper for a possible cool new way to jam that no one else will rly enjoy but him.
