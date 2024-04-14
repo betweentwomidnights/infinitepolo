@@ -1,0 +1,5 @@
+*.wav
+!branch1/*.wav
+!branch2/*.wav
+*.wav.asd
+infinitepolo/
