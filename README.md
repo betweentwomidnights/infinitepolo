@@ -1,6 +1,6 @@
 # this is a song that never ends.
 
- https://thecollabagepatch.com/infinitepolo.mp3
+ https://youtu.be/lnUxRd_3pJs
 
 this song has branches, kinda like a react tree. `four.py` is the 4th iteration.
 
